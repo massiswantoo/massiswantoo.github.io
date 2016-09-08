@@ -6,7 +6,7 @@ email: root@shikherverma.com
 copyright_name: Mas Siswanto
 description: "Online Territory of Shikher Verma"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
-url: http://shikherverma.com #only used in disque comments for now
+url: https://massiswanto.github.io/ #only used in disque comments for now
 disqus_url: shikherverma.com # disque comments are broken if you send http:// along with url
 github_username:  massiswantoo
 facebook_username:  100009744047212
