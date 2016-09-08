@@ -1,15 +1,15 @@
 # Site settings
-title: My Territory
-blog_title: My Territory
+title: Santri Kecil
+blog_title: Santri Kecil
 header-img: img/home-bg.jpg
 email: root@shikherverma.com
-copyright_name: ShikherVerma
+copyright_name: Mas Siswanto
 description: "Online Territory of Shikher Verma"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
 url: http://shikherverma.com #only used in disque comments for now
 disqus_url: shikherverma.com # disque comments are broken if you send http:// along with url
-github_username:  shikherverma
-facebook_username:  shikherverma1
+github_username:  massiswantoo
+facebook_username:  100009744047212
 collections:
   - portfolio
 
