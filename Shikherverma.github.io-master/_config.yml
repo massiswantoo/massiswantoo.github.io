@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: root@shikherverma.com
 copyright_name: Mas Siswanto
 description: "Online Territory of Shikher Verma"
-baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
+baseurl: "https://massiswanto.github.io/" #base url is for when the site is not at the root but at some subdirectory.
 url: https://massiswanto.github.io/ #only used in disque comments for now
 disqus_url: shikherverma.com # disque comments are broken if you send http:// along with url
 github_username:  massiswantoo
